@@ -1,0 +1,19 @@
+{
+  "name": "catclicker",
+  "version": "1.0.0",
+  "description": "Cat clicker using knockout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbariki/Cat-Clicker-App.git"
+  },
+  "author": "Harshini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbariki/Cat-Clicker-App/issues"
+  },
+  "homepage": "https://github.com/hbariki/Cat-Clicker-App#readme"
+}
